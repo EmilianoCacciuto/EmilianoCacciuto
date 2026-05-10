@@ -1,8 +1,8 @@
 # Hi, I'm Emiliano Cacciuto!
 
-- **BSc in [Inserisci Corso, es. Computer Science]**
-- **Current MSc Student in [Inserisci Corso Magistrale]**
-- **Tech Stack:** Python, Java, SQL, [Aggiungi altro]
+- **BSc in Electrical, Electronics and Computer Engineering at University of Cagliari**
+- **Current MSc Student in Control Systems Engineering at University of Padua**
+- **Tech Stack:** Python, MATLAB, Simulink-Simscape, C, OMRON, LATEX, ASSEMBLY, SQL
 
 ---
 
