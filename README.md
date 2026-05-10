@@ -2,7 +2,7 @@
 
 - **BSc in Electrical, Electronics and Computer Engineering at University of Cagliari**
 - **Current MSc Student in Control Systems Engineering at University of Padua**
-- **Tech Stack:** Python, MATLAB, Simulink-Simscape, C, OMRON, LATEX, ASSEMBLY, SQL
+- **Programming:** Python, MATLAB, Simulink-Simscape, C, OMRON, LATEX, ASSEMBLY, SQL
 
 ---
 ### Connect with me
