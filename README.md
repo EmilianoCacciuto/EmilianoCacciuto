@@ -1,3 +1,9 @@
-# Hi, I'm Emiliano and I'm a Master student in Control Systems Engineering at University of Padua.
+# Hi, I am Emiliano Cacciuto!
 
-Here I share the project that I most proud of!
+### I hold a Bachelor's degree in Electrical, Electronics and Informatics Engineering, and I am currently a Master's student in Control Systems Engineering at University of Padu
+
+---
+
+
+## 📊 Statistiche GitHub
+![Le mie statistiche](https://github-readme-stats.vercel
