@@ -6,4 +6,4 @@
 
 ---
 ### Connect with me
-[LinkedIn](www.linkedin.com/in/emiliano-cacciuto-148393290) | [Email](mailto:emicacciu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emiliano-cacciuto-148393290) | [Email](mailto:emicacciu@gmail.com)
